@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "turboquant-mini"
+version = "0.1.0"
+authors = [
+  { name="Batuhan", email="abbilginn@hotmail.com" },
+]
+description = "A naive PyTorch implementation of TurboQuant for online vector quantization."
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "torch>=2.0.0",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/teatonedev/turboquant-mini"
+"Bug Tracker" = "https://github.com/teatonedev/turboquant-mini/issues"
