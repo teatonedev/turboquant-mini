@@ -1,0 +1,11 @@
+
+*.pyc
+__pycache__
+*.exe
+*.bin
+*.pth
+*.pt
+.cache
+venv/
+venv/*
+*venv/
