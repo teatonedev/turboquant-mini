@@ -13,8 +13,6 @@ This package provides drop in PyTorch layers for both Mean squared Error (MSE) o
 Baseline FP32 KV Cache Memory : 292.97 MB
 TurboQuant 4-bit KV Cache Memory: 36.62 MB
 
-========================================
 MEMORY SAVED: 256.35 MB
 COMPRESSION RATIO: 8.0x
-========================================
 
